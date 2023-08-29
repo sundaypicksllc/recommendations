@@ -1,467 +1,1499 @@
-[
 {
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Atlanta Falcons",
-"awayTeam":"Pittsburgh Steelers",
-"adjBaseHomeWinPerc":99,
-"adjBaseAwayWinPerc":01,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"Over",
-"spreadGamble":"Pittsburgh Steelers",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Philadelphia Eagles",
-"awayTeam":"Indianapolis Colts",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"Indianapolis Colts",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Carolina Panthers",
-"awayTeam":"Detroit Lions",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"Detroit Lions",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Tennessee Titans",
-"awayTeam":"New England Patriots",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"Over",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"San Francisco 49ers",
-"awayTeam":"Los Angeles Chargers",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":100,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"Under",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Chicago Bears",
-"awayTeam":"Buffalo Bills",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":500,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Green Bay Packers",
-"awayTeam":"Seattle Seahawks",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":50,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Minnesota Vikings",
-"awayTeam":"Arizona Cardinals",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"New York Giants",
-"awayTeam":"New York Jets",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Washington Commanders",
-"awayTeam":"Cincinnati Bengals",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Tampa Bay Buccanneers",
-"awayTeam":"Baltimore Ravens",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Jacksonville Jaguars",
-"awayTeam":"Miami Dolphins",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Dallas Cowboys",
-"awayTeam":"Las Vegas Raiders",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":125,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"Denver Broncos",
-"awayTeam":"Las Angeles Rams",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
-},
-{
-"id":1,
-"week":24,
-"year":2023,
-"homeTeam":"New Orleans Saints",
-"awayTeam":"Houston Texans",
-"adjBaseHomeWinPerc":54,
-"adjBaseAwayWinPerc":46,
-"basePredictWin":1,
-"homeMoneyLine":-130,
-"awayMoneyLine":110,
-"spread":-2,
-"total":50.5,
-"homeGamble":0,
-"awayGamble":0,
-"homePayout":76.92,
-"awayPayout":110,
-"totalPrediction":50,
-"overUnderGamble":"-",
-"spreadGamble":"",
-"spreadPrediction":0,
-"totalPred":50,
-"homePrediction":25,
-"awayPrediction":25,
-"homeSpreadOdds":-110,
-"awaySpreadOdds":-110,
-"overTotalOdds":-110,
-"underTotalOdds":-110,
-"spreadBetAmount":100,
-"overUnderBetAmt":0
+    "fields": {
+        "games": {
+            "arrayValue": {
+                "values": [
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "1"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Atlanta Falcons"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Carolina Panthers"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "56"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "44"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-175"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "145"
+                                },
+                                "spread": {
+                                    "doubleValue": "-3.5"
+                                },
+                                "total": {
+                                    "doubleValue": "40"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "57.14"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "145"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "40"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "-9"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "40"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "24"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "16"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-105"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-105"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "0"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "2"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Baltimore Ravens"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Houston Texans"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "80"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "20"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-485"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "370"
+                                },
+                                "spread": {
+                                    "doubleValue": "-10"
+                                },
+                                "total": {
+                                    "doubleValue": "44"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "20.62"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "370"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "48"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "-3"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "48"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "26"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "22"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "0"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "3"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Chicago Bears"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Green Bay Packers"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "66"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "34"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-125"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "105"
+                                },
+                                "spread": {
+                                    "doubleValue": "-2"
+                                },
+                                "total": {
+                                    "doubleValue": "44"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "80"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "105"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "42"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "5"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "42"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "24"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "18"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-112"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-112"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "0"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "4"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Cleveland Browns"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Cincinnati Bengals"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "50"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "50"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "100"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "-120"
+                                },
+                                "spread": {
+                                    "doubleValue": "1.5"
+                                },
+                                "total": {
+                                    "doubleValue": "47.5"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "100"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "100"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "83.33"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "42"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "Under"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "1"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "42"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "22"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "20"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "0"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "50"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "5"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Denver Broncos"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Las Vegas Raiders"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "67"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "33"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-205"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "170"
+                                },
+                                "spread": {
+                                    "doubleValue": "-4.5"
+                                },
+                                "total": {
+                                    "doubleValue": "43.5"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "48.78"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "170"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "45"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "Las Vegas Raiders"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "-2"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "45"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "24"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "22"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-108"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-108"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "50"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "6"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Indianapolis Colts"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Jacksonville Jaguars"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "49"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "51"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "0"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "170"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "-205"
+                                },
+                                "spread": {
+                                    "doubleValue": "4"
+                                },
+                                "total": {
+                                    "doubleValue": "45.5"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "170"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "48.78"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "46"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "3"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "46"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "22"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "24"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-108"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-108"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "0"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "7"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Kansas City Chiefs"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Detroit Lions"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "61"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "39"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-278"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "225"
+                                },
+                                "spread": {
+                                    "doubleValue": "-6.5"
+                                },
+                                "total": {
+                                    "doubleValue": "54"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "35.97"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "225"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "52"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "Under"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "Detroit Lions"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "-5"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "52"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "28"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "24"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-112"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-112"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "50"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "50"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "8"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Los Angeles Chargers"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Miami Dolphins"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "53"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "47"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-142"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "120"
+                                },
+                                "spread": {
+                                    "doubleValue": "-3"
+                                },
+                                "total": {
+                                    "doubleValue": "50.5"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "100"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "70.42"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "120"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "52"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "Los Angeles Chargers"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "-11"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "52"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "32"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "20"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-105"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-105"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "50"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "9"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Minnesota Vikings"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Tampa Bay Buccaneers"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "81"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "19"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-250"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "205"
+                                },
+                                "spread": {
+                                    "doubleValue": "-6.5"
+                                },
+                                "total": {
+                                    "doubleValue": "45.5"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "100"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "40"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "205"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "46"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "Minnesota Vikings"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "-7"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "46"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "26"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "20"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-105"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-105"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "50"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "10"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "New England Patriots"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Philadelphia Eagles"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "40"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "60"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "0"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "185"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "-225"
+                                },
+                                "spread": {
+                                    "doubleValue": "4.5"
+                                },
+                                "total": {
+                                    "doubleValue": "45"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "185"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "44.44"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "44"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "5"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "44"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "20"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "24"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "0"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "11"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "New Orleans Saints"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Tennessee Titans"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "62"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "38"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-175"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "145"
+                                },
+                                "spread": {
+                                    "doubleValue": "-3.5"
+                                },
+                                "total": {
+                                    "doubleValue": "41.5"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "57.14"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "145"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "33"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "Under"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "Tennessee Titans"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "3"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "33"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "18"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "15"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-102"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-102"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "50"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "50"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "12"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "New York Giants"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Dallas Cowboys"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "50"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "50"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "142"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "-170"
+                                },
+                                "spread": {
+                                    "doubleValue": "3.5"
+                                },
+                                "total": {
+                                    "doubleValue": "46.5"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "100"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "142"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "58.82"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "41"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "Under"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "New York Giants"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "8"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "41"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "24"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "16"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-112"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-112"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "50"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "50"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "13"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "New York Jets"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Buffalo Bills"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "67"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "33"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "114"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "-135"
+                                },
+                                "spread": {
+                                    "doubleValue": "2"
+                                },
+                                "total": {
+                                    "doubleValue": "46"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "114"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "74.07"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "44"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "3"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "44"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "24"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "20"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "0"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "14"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Pittsburgh Steelers"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "San Francisco 49ers"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "51"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "49"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "120"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "-142"
+                                },
+                                "spread": {
+                                    "doubleValue": "2.5"
+                                },
+                                "total": {
+                                    "doubleValue": "40.5"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "120"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "70.42"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "37"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "-6"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "37"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "22"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "16"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "0"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "15"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Seattle Seahawks"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Los Angeles Rams"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "55"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "45"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-218"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "180"
+                                },
+                                "spread": {
+                                    "doubleValue": "-4.5"
+                                },
+                                "total": {
+                                    "doubleValue": "47.5"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "45.87"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "180"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "44"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "Under"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "Los Angeles Rams"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "-2"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "44"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "23"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "21"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "50"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "50"
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "mapValue": {
+                            "fields": {
+                                "id": {
+                                    "integerValue": "16"
+                                },
+                                "week": {
+                                    "integerValue": "1"
+                                },
+                                "year": {
+                                    "integerValue": "2023"
+                                },
+                                "homeTeam": {
+                                    "stringValue": "Washington Commanders"
+                                },
+                                "awayTeam": {
+                                    "stringValue": "Arizona Cardinals"
+                                },
+                                "adjBaseHomeWinPerc": {
+                                    "doubleValue": "65"
+                                },
+                                "adjBaseAwayWinPerc": {
+                                    "doubleValue": "35"
+                                },
+                                "basePredictWin": {
+                                    "doubleValue": "1"
+                                },
+                                "homeMoneyLine": {
+                                    "integerValue": "-325"
+                                },
+                                "awayMoneyLine": {
+                                    "integerValue": "260"
+                                },
+                                "spread": {
+                                    "doubleValue": "-7"
+                                },
+                                "total": {
+                                    "doubleValue": "39"
+                                },
+                                "homeGamble": {
+                                    "integerValue": "0"
+                                },
+                                "awayGamble": {
+                                    "integerValue": "0"
+                                },
+                                "homePayout": {
+                                    "doubleValue": "30.77"
+                                },
+                                "awayPayout": {
+                                    "doubleValue": "260"
+                                },
+                                "totalPrediction": {
+                                    "doubleValue": "42"
+                                },
+                                "overUnderGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadGamble": {
+                                    "stringValue": "-"
+                                },
+                                "spreadPrediction": {
+                                    "doubleValue": "-7"
+                                },
+                                "totalPred": {
+                                    "doubleValue": "42"
+                                },
+                                "homePrediction": {
+                                    "integerValue": "24"
+                                },
+                                "awayPrediction": {
+                                    "integerValue": "18"
+                                },
+                                "homeSpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "awaySpreadOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "overTotalOdds": {
+                                    "stringValue": "-110"
+                                },
+                                "underTotalOdds": {
+                                    "integerValue": "-110"
+                                },
+                                "spreadBetAmount": {
+                                    "integerValue": "0"
+                                },
+                                "overUnderBetAmt": {
+                                    "integerValue": "0"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
 }
-]
+
