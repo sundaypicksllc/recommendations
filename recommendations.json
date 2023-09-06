@@ -6,7 +6,7 @@
         "homeTeam": "Atlanta Falcons",
         "awayTeam": "Carolina Panthers",
         "adjBaseHomeWinPerc": 56,
-        "adjBaseAwayWinPerc": 44.0,
+        "adjBaseAwayWinPerc": 45,
         "basePredictWin": 1,
         "homeMoneyLine": -185,
         "awayMoneyLine": 154,
