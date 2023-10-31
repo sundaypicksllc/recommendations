@@ -166,13 +166,13 @@
         "homeMoneyLine": -325,
         "awayMoneyLine": 260,
         "spread": -7,
-        "total": 45.5,
+        "total": 46,
         "homeGamble": 0,
         "awayGamble": 0,
         "homePayout": 30.77,
         "awayPayout": 260,
         "totalPrediction": 45,
-        "overUnderGamble": "-",
+        "overUnderGamble": "Under",
         "spreadGamble": "Las Vegas Raiders",
         "spreadPrediction": -5,
         "totalPred": 45,
@@ -183,7 +183,7 @@
         "overTotalOdds": -110,
         "underTotalOdds": -110,
         "spreadBetAmount": 100,
-        "overUnderBetAmt": 0
+        "overUnderBetAmt": 100
     },
     {
         "id": 7,
