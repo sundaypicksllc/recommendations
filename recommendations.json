@@ -103,7 +103,7 @@
         "basePredictWin": 1,
         "homeMoneyLine": -340,
         "awayMoneyLine": 270,
-        "spread": -7.5,
+        "spread": -7,
         "total": 34,
         "homeGamble": 0,
         "awayGamble": 0,
@@ -142,7 +142,7 @@
         "awayPayout": 200,
         "totalPrediction": 50,
         "overUnderGamble": "-",
-        "spreadGamble": "-",
+        "spreadGamble": "Detroit Lions",
         "spreadPrediction": -4,
         "totalPred": 50,
         "homePrediction": 27,
@@ -151,7 +151,7 @@
         "awaySpreadOdds": -112,
         "overTotalOdds": -110,
         "underTotalOdds": -110,
-        "spreadBetAmount": 0,
+        "spreadBetAmount": 100,
         "overUnderBetAmt": 0
     },
     {
@@ -306,7 +306,6 @@
         "awaySpreadOdds": -112,
         "overTotalOdds": -110,
         "underTotalOdds": -110,
-        "spreadBetAmount": 0,
         "overUnderBetAmt": 0
     },
     {
